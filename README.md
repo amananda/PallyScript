@@ -1,6 +1,6 @@
 PallyScript
 ===========
-Welcome, and thanks for downloading PallyScript!
+Welcome, and thanks for your interest in PallyScript!
 
 from reddit.com:
 
